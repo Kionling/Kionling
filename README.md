@@ -1,7 +1,10 @@
 ### Hi there 👋 my name is Daniel 👨‍!
-
 <div align="center">
-<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img  alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img   src="https://66.media.tumblr.com/1cf64638208294073da7dfb411c1fc6d/tumblr_o7aai7L6Gh1so9b4uo1_500.gif" height="240px" alt="jake the dog"   >
+</div>
+<div align="center">
+
 
 🔭 I’m currently working on many projects that include making sustainable, scalable, and responsive **websites for business companies.**
 
@@ -23,9 +26,7 @@
 </a>
 <br>
 <br>
-<div class="center">
-<img src="https://media1.tenor.com/images/ec85119df7f645a0fc88cf3278f230ee/tenor.gif?itemid=3472229" alt="jake the dog" style="margin-left: 30px"">
-</div>
+
 </div>
 
 <!--
