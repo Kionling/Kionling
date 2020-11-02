@@ -1,10 +1,11 @@
-### Hi there 👋 my name is Daniel 👨‍!
+
 <div align="center">
+
+### Hi there 👋 my name is Daniel ‍!
 <img  alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <img   src="https://66.media.tumblr.com/1cf64638208294073da7dfb411c1fc6d/tumblr_o7aai7L6Gh1so9b4uo1_500.gif" height="240px" alt="jake the dog"   >
 </div>
 <div align="center">
-
 
 🔭 I’m currently working on many projects that include making sustainable, scalable, and responsive **websites for business companies.**
 
