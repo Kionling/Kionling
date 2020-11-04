@@ -27,6 +27,7 @@
 </a>
 <br>
 <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kionling&langs_count=16" width="40%" height="100%"/>
 
 </div>
 
